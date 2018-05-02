@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import Nav from './nav';
+
 import './header.css';
 
 export default class Header extends Component {
@@ -9,12 +11,7 @@ export default class Header extends Component {
         <div className="inner">
           <h3 className="masthead-brand">Nail Palace</h3>
           <h6 className="masthead-subtext">Nobody Does It Better!</h6>
-          <nav className="nav nav-masthead justify-content-center">
-            <a className="nav-link active" href="#">Home</a>
-            <a className="nav-link" href="#">About</a>
-            <a className="nav-link" href="#">Services</a>
-            <a className="nav-link" href="#">Contact</a>
-          </nav>
+          <Nav />
         </div>
       </header>
     );
