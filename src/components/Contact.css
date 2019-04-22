@@ -1,0 +1,117 @@
+#map {
+    width: 100%;
+    height: 300px;
+    flex-direction: column;
+    min-height: 300px;
+    background-color: grey;
+    display: flex;
+}
+.table-hours {
+    width: 100%;
+    text-align: center;
+}
+.address, .contact-info, .hours-of-op {
+    margin: 20px;
+}
+.sameline {
+    white-space: nowrap;
+}
+.padding-auto {
+    padding: auto;
+}
+.min-width {
+    min-width: 80px;
+}
+.text-left-align {
+    text-align: left;
+}
+.align-center {
+    display: flex;
+    align-items: center;
+}
+.horizontal-center {
+    margin: 0 auto;
+}
+.margin-bottom-md {
+    margin-bottom: 3rem;
+}
+.contact {
+    width: 100vw;
+    height: 30vh;
+
+    color: white;
+
+    /* flexbox */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    /* Background styles */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.5)), url(/storefront.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+    /* transition: border-color 240ms ease-in-out;
+    transition-property: border-color;
+    transition-duration: 240ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s; */
+}
+.google-maps-iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (min-width: 576px) {
+    .address, .contact-info, .hours-of-op {
+        margin: 0;
+    }
+    .address, .contact-info {
+        padding-left: 10px;
+        text-align: left;
+    }
+    .enough-space {
+        padding: 0;
+    }
+    .enough-space.left {
+        padding-right: 10px;
+    }
+    .enough-space.right {
+        padding-left: 10px;
+    }
+    .table-hours {
+        width: auto;
+    }
+    .hours {
+        margin-top: 0;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .address, .contact-info, .hours-of-op {
+        margin: 20px;
+    }
+    .address, .contact-info {
+        padding-left: 0px;
+        text-align: center;
+    }
+    .enough-space {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    #map {
+        display: block;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .hours-of-op {
+        padding-left: 100px;
+    }
+}

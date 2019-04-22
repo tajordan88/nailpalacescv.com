@@ -1,0 +1,58 @@
+
+.home {
+    font-family: 'Libre Baskerville', serif;
+}
+.display-1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-size: 8rem;
+}
+.hero {
+    width: 100vw;
+    height: 100vh;
+
+    color: white;
+
+    /* flexbox */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    /* Background styles */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(/flower.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+    /* transition: border-color 240ms ease-in-out;
+    transition-property: border-color;
+    transition-duration: 240ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s; */
+}
+.call-to-action {
+    color: white;
+    background-color: #21ce99;
+    
+    /* Border styles */
+    /* border: 3px solid white; */
+}
+.btn-rounded {
+    padding: 1em;
+    border-radius: 50px;
+}
+
+.call-to-action:hover {
+    color: white;
+    background-color: #01ae79;
+}
+
+.message {
+    padding: 200px 0;
+    margin: 0 auto;
+    text-align: center;
+}
