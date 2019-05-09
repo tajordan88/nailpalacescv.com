@@ -1,13 +1,15 @@
 {
-  "main.css": "/nailpalacescv.com/static/css/main.0389620e.chunk.css",
-  "main.js": "/nailpalacescv.com/static/js/main.397bf248.chunk.js",
-  "main.js.map": "/nailpalacescv.com/static/js/main.397bf248.chunk.js.map",
-  "runtime~main.js": "/nailpalacescv.com/static/js/runtime~main.f3bd4ebf.js",
-  "runtime~main.js.map": "/nailpalacescv.com/static/js/runtime~main.f3bd4ebf.js.map",
-  "static/js/2.516876f8.chunk.js": "/nailpalacescv.com/static/js/2.516876f8.chunk.js",
-  "static/js/2.516876f8.chunk.js.map": "/nailpalacescv.com/static/js/2.516876f8.chunk.js.map",
-  "index.html": "/nailpalacescv.com/index.html",
-  "precache-manifest.08fcdb5d699f48c5391778b96c0fafec.js": "/nailpalacescv.com/precache-manifest.08fcdb5d699f48c5391778b96c0fafec.js",
-  "service-worker.js": "/nailpalacescv.com/service-worker.js",
-  "static/css/main.0389620e.chunk.css.map": "/nailpalacescv.com/static/css/main.0389620e.chunk.css.map"
+  "main.css": "/nail-palace-website/static/css/main.020ed55d.chunk.css",
+  "main.js": "/nail-palace-website/static/js/main.75d1abcd.chunk.js",
+  "main.js.map": "/nail-palace-website/static/js/main.75d1abcd.chunk.js.map",
+  "runtime~main.js": "/nail-palace-website/static/js/runtime~main.c1200dd7.js",
+  "runtime~main.js.map": "/nail-palace-website/static/js/runtime~main.c1200dd7.js.map",
+  "static/js/2.1653256d.chunk.js": "/nail-palace-website/static/js/2.1653256d.chunk.js",
+  "static/js/2.1653256d.chunk.js.map": "/nail-palace-website/static/js/2.1653256d.chunk.js.map",
+  "index.html": "/nail-palace-website/index.html",
+  "precache-manifest.41d106b1a5ddf6cb2bf10b222ab21c50.js": "/nail-palace-website/precache-manifest.41d106b1a5ddf6cb2bf10b222ab21c50.js",
+  "service-worker.js": "/nail-palace-website/service-worker.js",
+  "static/css/main.020ed55d.chunk.css.map": "/nail-palace-website/static/css/main.020ed55d.chunk.css.map",
+  "static/media/home.css": "/nail-palace-website/static/media/flower.de24c193.jpeg",
+  "static/media/Contact.css": "/nail-palace-website/static/media/storefront.e3d4d0d9.jpeg"
 }
