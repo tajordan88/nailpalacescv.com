@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1e506b84dbbd43aee84c",
-    "url": "/nailpalacescv.com/static/css/main.b3acc589.chunk.css"
+    "revision": "33de17d1702b9653b70e",
+    "url": "/nailpalacescv.com/static/css/main.0389620e.chunk.css"
   },
   {
-    "revision": "1e506b84dbbd43aee84c",
-    "url": "/nailpalacescv.com/static/js/main.254a5963.chunk.js"
+    "revision": "33de17d1702b9653b70e",
+    "url": "/nailpalacescv.com/static/js/main.397bf248.chunk.js"
   },
   {
     "revision": "fee0a244b3df616f9284",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/nailpalacescv.com/static/js/2.516876f8.chunk.js"
   },
   {
-    "revision": "a90f0c7f2dd24c8a2856c97ad46da042",
+    "revision": "02ee9eccc582b8bcf9d311ba48011315",
     "url": "/nailpalacescv.com/index.html"
   }
 ];
