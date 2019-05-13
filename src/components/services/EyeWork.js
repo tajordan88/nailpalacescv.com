@@ -16,36 +16,6 @@ const EyeWork = () => {
                             <span>20</span>
                         </td>
                     </tr>
-                    <tr>
-                        <td className="column-block">
-                            <div>
-                                <strong className="menu menu-title">Eyelashes Tinted</strong>
-                            </div>
-                        </td>
-                        <td className="column-block menu-price small-menu-text-left">
-                            <span>20</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td className="column-block">
-                            <div>
-                                <strong className="menu menu-title">Eyelashes Tinted Bottom</strong>
-                            </div>
-                        </td>
-                        <td className="column-block menu-price small-menu-text-left">
-                            <span>20</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td className="column-block">
-                            <div>
-                                <strong className="menu menu-title">Eyelashes Tinted Top &amp; Bottom</strong>
-                            </div>
-                        </td>
-                        <td className="column-block menu-price small-menu-text-left">
-                            <span>30</span>
-                        </td>
-                    </tr>
                 </tbody>
             </table>
         </div>

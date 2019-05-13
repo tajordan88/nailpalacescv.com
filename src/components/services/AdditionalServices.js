@@ -89,26 +89,6 @@ const AdditionalServices = () => {
                     <tr>
                         <td className="column-block">
                             <div>
-                                <strong className="menu menu-title">Paraffin Wax (hands)</strong>
-                            </div>
-                        </td>
-                        <td className="column-block menu-price small-menu-text-left">
-                            <span>8</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td className="column-block">
-                            <div>
-                                <strong className="menu menu-title">Paraffin Wax (feet)</strong>
-                            </div>
-                        </td>
-                        <td className="column-block menu-price small-menu-text-left">
-                            <span>10</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td className="column-block">
-                            <div>
                                 <span className="menu menu-title">(Prices for artificial nail services may vary)</span>
                             </div>
                         </td>

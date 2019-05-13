@@ -2,7 +2,7 @@
   "name": "nail_palace",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tajordan88.github.io/nailpalacescv.com",
+  "homepage": "https://nailpalacescv.com",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
