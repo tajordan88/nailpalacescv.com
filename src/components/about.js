@@ -32,7 +32,7 @@ const about = () => {
                                 <div className="row align-items-center">
                                     <div className="col-lg-5 col-xl-4 about-message">
                                         <h4 className="about-subtitle">Health &amp; Safety</h4>
-                                        <p>Our commitment to your health and overall well-being is our highest priority. As part of this commitment to excellent sanitation, all of our instruments are sterilzied and disinfected after each use. </p>
+                                        <p>Our commitment to your health and overall well-being is our highest priority. As part of this commitment to excellent sanitation, all of our instruments are sterilized and disinfected after each use. </p>
                                         <hr />
                                     </div>
                                     <div className="col">
@@ -50,8 +50,8 @@ const about = () => {
                                 <div className="row align-items-center">
                                     <div className="col"></div>
                                     <div className="col-lg-5 col-xl-4 about-message">
-                                        <h4 className="about-subtitle">100% Disposable Jet&#8209;Liner&trade;</h4>
-                                        <p>We also carry the one and only <a href="https://www.contegospa.com/#products-main" rel="noopener noreferrer" target="_blank">Contego Spa Chairs</a> and Patened 100% disposable Jet-Liners&trade; guaranteeing you safe and quality service.</p>
+                                        <h4 className="about-subtitle">100% Disposable Jet</h4>
+                                        <p>We also carry the one and only <a href="https://www.contegospa.com/" rel="noopener noreferrer" target="_blank">Contego Spa Chairs</a> and Patented 100% Disposable Jet guaranteeing you safe and quality service.</p>
                                         <hr />
                                     </div>
                                 </div>

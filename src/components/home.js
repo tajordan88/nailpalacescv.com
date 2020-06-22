@@ -30,7 +30,7 @@ class home extends React.Component {
                         </div>
                     </div>
                     <div name="message "className="container message">
-                        <h3 className="mb-0">Nail Palace is committed to serving the best for you.</h3>
+                        <h3 className="mb-0">Nail Palace is committed to the best service for you.</h3>
                     </div>
                 </section>
                 <About/>
