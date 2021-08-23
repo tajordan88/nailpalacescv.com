@@ -43,7 +43,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$35+</span>
+              <span>$45+</span>
             </td>
           </tr>
           <tr>
@@ -73,7 +73,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$40+</span>
+              <span>$45+</span>
             </td>
           </tr>
         </tbody>
