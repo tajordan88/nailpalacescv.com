@@ -13,7 +13,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$15</span>
+              <span>$18</span>
             </td>
           </tr>
           <tr>
@@ -23,7 +23,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$10</span>
+              <span>$12</span>
             </td>
           </tr>
           <tr>
@@ -33,7 +33,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$15</span>
+              <span>$18</span>
             </td>
           </tr>
           <tr>
@@ -43,7 +43,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$45+</span>
+              <span>$50+</span>
             </td>
           </tr>
           <tr>
@@ -53,7 +53,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$45</span>
+              <span>$50</span>
             </td>
           </tr>
           <tr>
@@ -63,7 +63,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$15</span>
+              <span>$18</span>
             </td>
           </tr>
           <tr>
@@ -73,7 +73,7 @@ const Wax = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$45+</span>
+              <span>$50+</span>
             </td>
           </tr>
         </tbody>
