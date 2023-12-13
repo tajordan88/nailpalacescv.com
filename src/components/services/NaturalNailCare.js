@@ -13,7 +13,7 @@ const NaturalNailCare = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$15</span>
+              <span>$20</span>
             </td>
           </tr>
           <tr>

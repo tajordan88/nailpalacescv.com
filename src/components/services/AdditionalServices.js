@@ -29,7 +29,7 @@ const AdditionalServices = () => {
           <tr>
             <td className="column-block">
               <div>
-                <strong className="menu menu-title">French Polish</strong>
+                <strong className="menu menu-title">French Polish Extra</strong>
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
@@ -67,7 +67,7 @@ const AdditionalServices = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$7</span>
+              <span>$10</span>
             </td>
           </tr>
           <tr>

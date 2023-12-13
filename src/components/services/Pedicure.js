@@ -13,7 +13,7 @@ const Pedicure = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$25</span>
+              <span>$28</span>
             </td>
           </tr>
           <tr>
@@ -45,7 +45,7 @@ const Pedicure = () => {
               </div>
             </td>
             <td className="column-block menu-price small-menu-text-left">
-              <span>$25</span>
+              <span>$28</span>
             </td>
           </tr>
         </tbody>
