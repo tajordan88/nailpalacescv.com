@@ -9,7 +9,6 @@ Presetup:
 
 1. git checkout new-website
 2. npm install
-3. nvm use 16.18.0
 
 deploy to gh pages:
 
@@ -17,3 +16,4 @@ deploy to gh pages:
 2. Run: npm run deploy
 3. Then go to "Settings" and add "nailpalacescv.com" to Custom Domain and click "save"
 4. Change back to latest LTS version of node after as to
+5. git push
