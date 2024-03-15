@@ -69,7 +69,7 @@ const NailEnhancements = () => {
               </div>
             </td>
             <td className='column-block menu-price small-menu-text-left'>
-              <span>$45</span>
+              <span>$50</span>
             </td>
           </tr>
           <tr>
