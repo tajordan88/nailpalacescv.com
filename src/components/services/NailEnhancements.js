@@ -13,7 +13,7 @@ const NailEnhancements = () => {
               </div>
             </td>
             <td className='column-block menu-price small-menu-text-left'>
-              <span>Full Set: $35 | Fill: $25</span>
+              <span>Full Set: $45 | Fill: $35</span>
             </td>
           </tr>
           <tr>
@@ -23,7 +23,7 @@ const NailEnhancements = () => {
               </div>
             </td>
             <td className='column-block menu-price small-menu-text-left'>
-              <span>Full Set: $45 | Fill: $25</span>
+              <span>Full Set: $50 | Fill: $35</span>
             </td>
           </tr>
           <tr>
@@ -45,7 +45,7 @@ const NailEnhancements = () => {
               </div>
             </td>
             <td className='column-block menu-price small-menu-text-left'>
-              <span>$50</span>
+              <span>$55</span>
             </td>
           </tr>
           <tr>
@@ -57,7 +57,7 @@ const NailEnhancements = () => {
               </div>
             </td>
             <td className='column-block menu-price small-menu-text-left'>
-              <span>$50</span>
+              <span>$55</span>
             </td>
           </tr>
           <tr>
@@ -69,7 +69,7 @@ const NailEnhancements = () => {
               </div>
             </td>
             <td className='column-block menu-price small-menu-text-left'>
-              <span>$50</span>
+              <span>$55</span>
             </td>
           </tr>
           <tr>
